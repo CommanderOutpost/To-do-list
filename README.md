@@ -1,2 +1,2 @@
 # To-do-list
-A simple To-do list
+This code is a simple command-line based to-do list application. It allows the user to add, edit, delete and mark as complete tasks and sort them by due date. The program uses the datetime module to handle the due date and time of each task, and json module to save and load the list to a file. The user can save the list to a file, and load it back when the program starts. It also has a feature that allows the user to add a due date to each task, and show the tasks ordered by the due date and time. The year is set automatically to current year. The user can also exit the program when they are done. The program also checks if there are no tasks in the list and displays a message accordingly.
